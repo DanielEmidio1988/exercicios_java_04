@@ -1,2 +1,4 @@
-package br.com.study.danielemidio.pet;public class Animal {
+package br.com.study.danielemidio.pet;
+
+public class Animal {
 }
